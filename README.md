@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 About Me
-- 🧑‍🎓 I'm a Computer Science student at **SRM University, Andhra Pradesh** (2022–2026)**.
+- 🧑‍🎓 I'm a Computer Science student at **SRM University, Andhra Pradesh** (2022–2026).
 - 💡 I’m passionate about **web development, backend engineering**, and exploring **AI/ML innovations**.
 - 🌐 I love creating **user-centric applications** that solve real-world problems.
 - 🧠 I'm constantly learning and experimenting with new technologies!
