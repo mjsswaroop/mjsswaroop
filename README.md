@@ -89,7 +89,7 @@
 
 ### 📫 Let's Connect
 - 💌 Mail me: [jyothisaiswaroopmareedu@gmail.com](mailto:jyothisaiswaroopmareedu@gmail.com)
-- 🌐 Portfolio: *Coming soon!*
+- 🌐 Portfolio: [portfolio](https://swaroopportfolio.vercel.app/)
 
 ---
 
